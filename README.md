@@ -2,13 +2,15 @@
 Word Problem solver for One Relator Groups using Magnus' Method.
 
 # Example
-For instance to solve the word Problem for the Baumslag Solitar Group BS(2,3) given by the presentation
+For instance to solve the Word Problem for the Baumslag Solitar Group BS(2,3) given by the presentation
 
 BS(2,3) = &#8826; a, b &#8739; a<sup>-1</sup>b<sup>2</sup>a b <sup> -3 </sup> &#8827;
 
 for the word b<sup>−1</sup>a<sup>−1</sup>bab<sup>−1</sup>a<sup>−1</sup>bab<sup>−1</sup>
 
-You can enter
+run <code> python3 magnus.py </code>
+
+And enter
 
 <code> S = a b </code>
 
